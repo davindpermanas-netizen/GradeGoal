@@ -14,5 +14,5 @@
     "declaration": true,
     "declarationMap": true
   },
-  "include": ["GradeGoal.ts"]
+  "include": ["src/GradeGoal.ts"]
 }
