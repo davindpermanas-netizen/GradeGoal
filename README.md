@@ -17,9 +17,9 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 | No. | Nama | NIM | GitHub |
 |---|---|---|---|
-| 1 | [Nama] | [NIM] | [Username] |
-| 2 | [Nama] | [NIM] | [Username] |
-| 3 | [Nama] | [NIM] | [Username] |
+| 1 | Davind Permana Syahroni | 263140700111015 | @davindpermanas |
+| 2 | Ahmad Daffa Nadindra | 263140701111021 | @daffanadi |
+| 3 | Larissa Nerys Egafatika | 2631407001110110 | @larissaegafatika473 |
 
 ## Rencana Pembagian Tugas
 
