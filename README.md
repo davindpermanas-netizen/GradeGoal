@@ -1,4 +1,4 @@
-# GradeGoal – Academic Grade Target Simulator
+# GradeGoal – Sistem Target Nilai Akademik
 
 ## Deskripsi
 
@@ -10,7 +10,7 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 - Mengelola komponen penilaian mata kuliah.
 - Menghitung kontribusi nilai.
-- Simulasi pencapaian target nilai akhir.
+- Melakukan simulasi pencapaian target nilai akhir.
 - Menerapkan konsep pemrograman TypeScript.
 
 ## Anggota Kelompok
@@ -23,8 +23,11 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 ## Rencana Pembagian Tugas
 
-| Anggota | Tugas |
-|---|---|
-| [Davind Permana Syahroni] | Bertanggung jawab dalam pengembangan fitur pencarian data (Search), pembuatan menu utama, serta integrasi program agar seluruh fitur dapat berjalan dengan baik. Selain itu, bertugas menyusun flowchart, penjelasan alur program, dan dokumentasi hasil implementasi.|
-| [Ahmad Daffa Nadindra] | Bertanggung jawab dalam pengembangan fitur pengelolaan data, meliputi menampilkan, mengubah, dan menghapus data (Read, Update, Delete). Selain itu, bertugas menyusun penjelasan proses dan dokumentasi hasil dari fitur yang dikembangkan. |
-| [Larissa Nerys Egafatika] | Bertanggung jawab dalam perancangan struktur data, pengelolaan penyimpanan data, serta pengembangan fitur penambahan data (Create). Selain itu, bertugas menyusun bagian laporan yang berkaitan dengan deskripsi masalah, struktur data, dan proses penambahan data. |
+| Anggota | Branch | Tanggung Jawab |
+|---|---|---|
+| Davind Permana Syahroni | `feature/create-data` | Mengembangkan fitur penambahan data (Create), termasuk input data, validasi, dan penyimpanan data baru. |
+| Davind Permana Syahroni | `feature/update-data` | Mengembangkan fitur perubahan data (Update), termasuk pencarian data berdasarkan ID, penampilan data lama, validasi, dan pembaruan data. |
+| Larissa Nerys Egafatika | `feature/read-data` | Mengembangkan fitur pembacaan data (Read), meliputi penampilan seluruh data dan detail data berdasarkan ID. |
+| Larissa Nerys Egafatika | `feature/search-data` | Mengembangkan fitur pencarian data (Search) berdasarkan kata kunci dan filter tertentu. |
+| Ahmad Daffa Nadindra | `feature/delete-data` | Mengembangkan fitur penghapusan data (Delete), termasuk pencarian data berdasarkan ID dan konfirmasi penghapusan. |
+| Ahmad Daffa Nadindra | `feature/grade-calculation` | Mengembangkan fitur perhitungan nilai, meliputi kontribusi nilai, sisa bobot, estimasi nilai yang dibutuhkan, serta status pencapaian target nilai. |
