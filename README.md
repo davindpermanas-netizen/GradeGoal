@@ -25,9 +25,9 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 | Anggota | Tugas |
 |---|---|
-| [Davind Permana Syahroni] | [Tugas] |
+| [Davind Permana Syahroni] | [Pembuatan repository Public] |
 | [Ahmad Daffa Nadindra] | [Tugas] |
-| [Larissa Nerys Egafatika] | [Tugas] |
+| [Larissa Nerys Egafatika] | [Proposal dan analisis awal] |
 
 ## Teknologi
 
