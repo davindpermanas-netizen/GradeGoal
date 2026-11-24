@@ -25,9 +25,9 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 | Anggota | Tugas |
 |---|---|
-| [Davind Permana Syahroni] | [Pembuatan repository Public] |
-| [Ahmad Daffa Nadindra] | [Tugas] |
-| [Larissa Nerys Egafatika] | [Proposal dan analisis awal] |
+| [Davind Permana Syahroni] | Bertanggung jawab dalam pengembangan fitur pencarian data (Search), pembuatan menu utama, serta integrasi program agar seluruh fitur dapat berjalan dengan baik. Selain itu, bertugas menyusun flowchart, penjelasan alur program, dan dokumentasi hasil implementasi.|
+| [Ahmad Daffa Nadindra] | Bertanggung jawab dalam pengembangan fitur pengelolaan data, meliputi menampilkan, mengubah, dan menghapus data (Read, Update, Delete). Selain itu, bertugas menyusun penjelasan proses dan dokumentasi hasil dari fitur yang dikembangkan. |
+| [Larissa Nerys Egafatika] | Bertanggung jawab dalam perancangan struktur data, pengelolaan penyimpanan data, serta pengembangan fitur penambahan data (Create). Selain itu, bertugas menyusun bagian laporan yang berkaitan dengan deskripsi masalah, struktur data, dan proses penambahan data. |
 
 ## Teknologi
 
