@@ -23,6 +23,7 @@ Project ini dikembangkan dari project UTS GradeGoal dengan penambahan fitur peng
 
 ## Rencana Pembagian Tugas
 
+
 | Anggota | Tugas |
 |---|---|
 | [Davind Permana Syahroni] | Bertanggung jawab dalam pengembangan fitur pencarian data (Search), pembuatan menu utama, serta integrasi program agar seluruh fitur dapat berjalan dengan baik. Selain itu, bertugas menyusun flowchart, penjelasan alur program, dan dokumentasi hasil implementasi.|
