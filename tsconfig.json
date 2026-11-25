@@ -14,5 +14,5 @@
     "declaration": true,
     "declarationMap": true
   },
-  "include": ["src/hello.ts"]
+  "include": ["src/index.ts"]
 } 
