@@ -1,4 +1,4 @@
-# GradeGoal – Sistem Target Nilai Akademik
+# GradeGoal: Sistem Pengelolaan dan Perhitungan Target Nilai Akademik
 
 ## Anggota Kelompok
 
